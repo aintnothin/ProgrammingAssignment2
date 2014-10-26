@@ -1,4 +1,4 @@
-## Author: Steve Burch
+## Author: Steve Burch  10/25/2014
 
 ##
 ## takes a matrix and builds a "special matrix", which is really
